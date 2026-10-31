@@ -2,6 +2,12 @@ using Microsoft.EntityFrameworkCore;
 using SistemaMedico.Infrastructure.Data;
 using SistemaMedico.Domain.Interfaces;
 using SistemaMedico.Infrastructure.Repositories;
+using SistemaMedico.Application.Interfaces;
+using SistemaMedico.Application.Services;
+using SistemaMedico.Application.Mappings;
+using SistemaMedico.Middleware;
+using System.Globalization;
+using Microsoft.AspNetCore.Localization;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -20,6 +26,13 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 // 2. Inyección del Repositorio Genérico
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 
+// 3. Inyección de Servicios (Capa Application)
+builder.Services.AddScoped<ICategoriaService, CategoriaService>();
+builder.Services.AddScoped<IProductoService, ProductoService>();
+
+// 4. Configuración de AutoMapper
+builder.Services.AddAutoMapper(cfg => { }, typeof(MappingProfile));
+
 
 var app = builder.Build();
 
@@ -30,6 +43,17 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+
+//Inyección de tu middleware global
+app.UseMiddleware<MiddlewareGlobalExceptionHandler>();
+
+var supportedCultures = new[] { new CultureInfo("es-CR") };
+app.UseRequestLocalization(new RequestLocalizationOptions
+{
+    DefaultRequestCulture = new RequestCulture("es-CR"),
+    SupportedCultures = supportedCultures,
+    SupportedUICultures = supportedCultures
+});
 
 app.UseHttpsRedirection();
 app.UseRouting();

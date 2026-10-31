@@ -14,10 +14,4 @@
     <ProjectReference Include="..\SistemaMedico.Domain\SistemaMedico.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Mappings\" />
-    <Folder Include="Interfaces\" />
-    <Folder Include="Services\" />
-  </ItemGroup>
-
 </Project>

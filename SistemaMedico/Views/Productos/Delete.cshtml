@@ -1,0 +1,31 @@
+﻿@model SistemaMedico.Application.DTOs.ProductoDTO
+@{
+    ViewData["Title"] = "Eliminar Producto";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card card-custom mt-4 border-danger border-top border-4">
+            <div class="card-body p-4 text-center">
+                <i class="bi bi-exclamation-circle text-danger mb-3" style="font-size: 4rem;"></i>
+                <h2 class="fw-bold">¿Eliminar Producto?</h2>
+                <p class="text-muted fs-5">Está a punto de eliminar el producto <strong>@Model.Nombre</strong>.</p>
+
+                <div class="bg-light p-3 rounded-3 my-4 text-start">
+                    <div class="row">
+                        <div class="col-6 mb-2"><strong>Categoría:</strong> <span class="badge bg-info text-dark">@Model.CategoriaNombre</span></div>
+                        <div class="col-6 mb-2"><strong>Precio:</strong> @Model.Precio.ToString("C")</div>
+                        <div class="col-6 mb-2"><strong>Stock actual:</strong> @Model.Cantidad unidades</div>
+                        <div class="col-12 mt-2"><strong>Descripción:</strong> @Model.Descripcion</div>
+                    </div>
+                </div>
+
+                <form asp-action="Delete" method="post">
+                    <input type="hidden" asp-for="Id" />
+                    <a asp-action="Index" class="btn btn-secondary rounded-pill px-4 me-2"><i class="bi bi-arrow-left me-1"></i> Cancelar</a>
+                    <button type="submit" class="btn btn-danger rounded-pill px-4"><i class="bi bi-trash me-1"></i> Sí, eliminar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

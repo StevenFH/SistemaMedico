@@ -237,3 +237,4 @@ C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico\obj\Debug\ne
 C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico\obj\Debug\net10.0\SistemaMedico.pdb
 C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico\obj\Debug\net10.0\SistemaMedico.genruntimeconfig.cache
 C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico\obj\Debug\net10.0\ref\SistemaMedico.dll
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico\obj\Debug\net10.0\SistemaMedico.sourcelink.json

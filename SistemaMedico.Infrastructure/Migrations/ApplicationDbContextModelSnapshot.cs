@@ -40,6 +40,26 @@ namespace SistemaMedico.Infrastructure.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Categorias");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Descripcion = "Medicamentos para aliviar el dolor",
+                            Nombre = "Analgésicos"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Descripcion = "Fármacos para tratar infecciones bacterianas",
+                            Nombre = "Antibióticos"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Descripcion = "Insumos y herramientas de uso diario",
+                            Nombre = "Equipamiento Básico"
+                        });
                 });
 
             modelBuilder.Entity("SistemaMedico.Domain.Entities.Producto", b =>
@@ -73,6 +93,62 @@ namespace SistemaMedico.Infrastructure.Migrations
                     b.HasIndex("CategoriaId");
 
                     b.ToTable("Productos");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Cantidad = 200,
+                            CategoriaId = 1,
+                            Descripcion = "Caja x 100 tabletas",
+                            Nombre = "Paracetamol 500mg",
+                            Precio = 3500.00m
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Cantidad = 150,
+                            CategoriaId = 1,
+                            Descripcion = "Caja x 50 cápsulas",
+                            Nombre = "Ibuprofeno 400mg",
+                            Precio = 4800.00m
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Cantidad = 80,
+                            CategoriaId = 2,
+                            Descripcion = "Caja x 20 cápsulas",
+                            Nombre = "Amoxicilina 500mg",
+                            Precio = 6500.00m
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Cantidad = 50,
+                            CategoriaId = 2,
+                            Descripcion = "Caja x 5 tabletas",
+                            Nombre = "Azitromicina 250mg",
+                            Precio = 7200.00m
+                        },
+                        new
+                        {
+                            Id = 5,
+                            Cantidad = 30,
+                            CategoriaId = 3,
+                            Descripcion = "Medición rápida con alarma",
+                            Nombre = "Termómetro Digital",
+                            Precio = 4500.00m
+                        },
+                        new
+                        {
+                            Id = 6,
+                            Cantidad = 500,
+                            CategoriaId = 3,
+                            Descripcion = "Caja x 50 unidades",
+                            Nombre = "Mascarillas KN95",
+                            Precio = 8500.00m
+                        });
                 });
 
             modelBuilder.Entity("SistemaMedico.Domain.Entities.Producto", b =>

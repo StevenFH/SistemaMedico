@@ -1,0 +1,77 @@
+﻿@model IEnumerable<SistemaMedico.Application.DTOs.ProductoDTO>
+@{
+    ViewData["Title"] = "Productos";
+}
+
+<!-- Panel de Filtros -->
+<div class="card card-custom mt-4 border-0 bg-white shadow-sm">
+    <div class="card-body p-3">
+        <form asp-action="Index" method="get" class="row g-3 align-items-end">
+            <div class="col-md-4">
+                <label class="form-label text-muted small mb-1"><i class="bi bi-search me-1"></i>Buscar por nombre</label>
+                <input type="text" name="buscar" class="form-control bg-light" placeholder="Ej. Paracetamol" value="@Context.Request.Query["buscar"]" />
+            </div>
+            <div class="col-md-3">
+                <label class="form-label text-muted small mb-1"><i class="bi bi-tags me-1"></i>Categoría</label>
+                <select name="categoriaId" class="form-select bg-light" asp-items="ViewBag.Categorias">
+                    <option value="">Todas</option>
+                </select>
+            </div>
+            <div class="col-md-3">
+                <label class="form-label text-muted small mb-1"><i class="bi bi-currency-dollar me-1"></i>Precio Máximo (₡)</label>
+                <input type="number" step="0.01" name="precioMax" class="form-control bg-light" placeholder="Ej. 10000" value="@Context.Request.Query["precioMax"]" />
+            </div>
+            <div class="col-md-2 d-grid gap-2 d-md-flex justify-content-md-end">
+                <button type="submit" class="btn btn-primary"><i class="bi bi-funnel me-1"></i>Filtrar</button>
+                <a asp-action="Index" class="btn btn-outline-secondary" title="Limpiar Filtros"><i class="bi bi-eraser"></i></a>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="card card-custom mt-4">
+    <div class="card-body p-4">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h3 class="fw-bold m-0"><i class="bi bi-box-seam text-success me-2"></i>Inventario de Productos</h3>
+            <a asp-action="Create" class="btn btn-success rounded-pill shadow-sm"><i class="bi bi-plus-lg me-1"></i>Nuevo</a>
+        </div>
+        <div class="table-responsive">
+            <table class="table table-hover align-middle">
+                <thead class="table-light">
+                    <tr>
+                        <th class="ps-3">Nombre</th>
+                        <th>Categoría</th>
+                        <th>Precio</th>
+                        <th>Stock</th>
+                        <th class="text-end pe-3">Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td class="ps-3 fw-semibold text-dark">@item.Nombre</td>
+                            <td><span class="badge bg-info text-dark bg-opacity-25 border border-info rounded-pill px-3">@item.CategoriaNombre</span></td>
+                            <td class="text-success fw-bold">@item.Precio.ToString("C")</td>
+                            <td>
+                                @if (item.Cantidad < 10)
+                                {
+                                    <span class="badge bg-danger">@item.Cantidad</span>
+                                }
+                                else
+                                {
+
+                                    <span class="badge bg-secondary">@item.Cantidad</span>
+                                }
+                            </td>
+                            <td class="text-end pe-3">
+                                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-outline-secondary me-1" title="Editar"><i class="bi bi-pencil"></i></a>
+                                <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-outline-danger" title="Eliminar"><i class="bi bi-trash"></i></a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

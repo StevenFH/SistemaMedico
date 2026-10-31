@@ -10,3 +10,4 @@ C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Domain\obj\D
 C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Domain\obj\Debug\net10.0\SistemaMedico.Domain.pdb
 C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Domain\obj\Debug\net10.0\ref\SistemaMedico.Domain.dll
 C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Domain\obj\Debug\net10.0\SistemaM.0227C00A.Up2Date
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Domain\obj\Debug\net10.0\SistemaMedico.Domain.sourcelink.json

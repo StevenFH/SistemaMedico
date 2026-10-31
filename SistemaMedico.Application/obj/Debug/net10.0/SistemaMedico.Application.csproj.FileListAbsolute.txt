@@ -13,3 +13,4 @@ C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\
 C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\obj\Debug\net10.0\refint\SistemaMedico.Application.dll
 C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\obj\Debug\net10.0\SistemaMedico.Application.pdb
 C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\obj\Debug\net10.0\ref\SistemaMedico.Application.dll
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\obj\Debug\net10.0\SistemaMedico.Application.sourcelink.json

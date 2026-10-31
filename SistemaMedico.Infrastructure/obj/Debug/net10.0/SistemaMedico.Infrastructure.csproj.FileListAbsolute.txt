@@ -17,3 +17,4 @@ C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Infrastructu
 C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Infrastructure\obj\Debug\net10.0\SistemaMedico.Infrastructure.pdb
 C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Infrastructure\obj\Debug\net10.0\SistemaMedico.Infrastructure.genruntimeconfig.cache
 C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Infrastructure\obj\Debug\net10.0\ref\SistemaMedico.Infrastructure.dll
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Infrastructure\obj\Debug\net10.0\SistemaMedico.Infrastructure.sourcelink.json
