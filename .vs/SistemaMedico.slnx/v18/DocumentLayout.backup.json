@@ -1,0 +1,458 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3F9D69-E79C-6863-7CB4-F82BB74022D9}|SistemaMedico.Application\\SistemaMedico.Application.csproj|c:\\proyectosprograweb\\practicaevaluada2\\sistemamedico\\sistemamedico.application\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3F9D69-E79C-6863-7CB4-F82BB74022D9}|SistemaMedico.Application\\SistemaMedico.Application.csproj|solutionrelative:sistemamedico.application\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D3F9D69-E79C-6863-7CB4-F82BB74022D9}|SistemaMedico.Application\\SistemaMedico.Application.csproj|c:\\proyectosprograweb\\practicaevaluada2\\sistemamedico\\sistemamedico.application\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D3F9D69-E79C-6863-7CB4-F82BB74022D9}|SistemaMedico.Application\\SistemaMedico.Application.csproj|solutionrelative:sistemamedico.application\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Infrastructure\\Migrations\\20261031161040_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SistemaMedico.Infrastructure\\Migrations\\20261031161040_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95928DC4-BE12-DC3E-79F3-AE2E42A17183}|SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj|c:\\proyectosprograweb\\practicaevaluada2\\sistemamedico\\sistemamedico.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95928DC4-BE12-DC3E-79F3-AE2E42A17183}|SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj|solutionrelative:sistemamedico.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D281D934-545E-91F8-0615-E7459CE1F10D}|SistemaMedico\\SistemaMedico.csproj|c:\\proyectosprograweb\\practicaevaluada2\\sistemamedico\\sistemamedico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D281D934-545E-91F8-0615-E7459CE1F10D}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D281D934-545E-91F8-0615-E7459CE1F10D}|SistemaMedico\\SistemaMedico.csproj|c:\\proyectosprograweb\\practicaevaluada2\\sistemamedico\\sistemamedico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D281D934-545E-91F8-0615-E7459CE1F10D}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95928DC4-BE12-DC3E-79F3-AE2E42A17183}|SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj|c:\\proyectosprograweb\\practicaevaluada2\\sistemamedico\\sistemamedico.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95928DC4-BE12-DC3E-79F3-AE2E42A17183}|SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj|solutionrelative:sistemamedico.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C94709-BF5E-89DE-F50F-C1E59751F4CD}|SistemaMedico.Domain\\SistemaMedico.Domain.csproj|c:\\proyectosprograweb\\practicaevaluada2\\sistemamedico\\sistemamedico.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C94709-BF5E-89DE-F50F-C1E59751F4CD}|SistemaMedico.Domain\\SistemaMedico.Domain.csproj|solutionrelative:sistemamedico.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C94709-BF5E-89DE-F50F-C1E59751F4CD}|SistemaMedico.Domain\\SistemaMedico.Domain.csproj|c:\\proyectosprograweb\\practicaevaluada2\\sistemamedico\\sistemamedico.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C94709-BF5E-89DE-F50F-C1E59751F4CD}|SistemaMedico.Domain\\SistemaMedico.Domain.csproj|solutionrelative:sistemamedico.domain\\entities\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C94709-BF5E-89DE-F50F-C1E59751F4CD}|SistemaMedico.Domain\\SistemaMedico.Domain.csproj|c:\\proyectosprograweb\\practicaevaluada2\\sistemamedico\\sistemamedico.domain\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C94709-BF5E-89DE-F50F-C1E59751F4CD}|SistemaMedico.Domain\\SistemaMedico.Domain.csproj|solutionrelative:sistemamedico.domain\\entities\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95928DC4-BE12-DC3E-79F3-AE2E42A17183}|SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj|c:\\proyectosprograweb\\practicaevaluada2\\sistemamedico\\sistemamedico.infrastructure\\sistemamedico.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95928DC4-BE12-DC3E-79F3-AE2E42A17183}|SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj|solutionrelative:sistemamedico.infrastructure\\sistemamedico.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C94709-BF5E-89DE-F50F-C1E59751F4CD}|SistemaMedico.Domain\\SistemaMedico.Domain.csproj|c:\\proyectosprograweb\\practicaevaluada2\\sistemamedico\\sistemamedico.domain\\sistemamedico.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45C94709-BF5E-89DE-F50F-C1E59751F4CD}|SistemaMedico.Domain\\SistemaMedico.Domain.csproj|solutionrelative:sistemamedico.domain\\sistemamedico.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Application\\DTOs\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "SistemaMedico.Application\\DTOs\\ProductoDTO.cs",
+              "ToolTip": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Application\\DTOs\\ProductoDTO.cs",
+              "RelativeToolTip": "SistemaMedico.Application\\DTOs\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T16:16:58.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriaDTO.cs",
+              "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Application\\DTOs\\CategoriaDTO.cs",
+              "RelativeDocumentMoniker": "SistemaMedico.Application\\DTOs\\CategoriaDTO.cs",
+              "ToolTip": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Application\\DTOs\\CategoriaDTO.cs",
+              "RelativeToolTip": "SistemaMedico.Application\\DTOs\\CategoriaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T16:16:37.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20261031161040_InitialCreate.cs",
+              "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Infrastructure\\Migrations\\20261031161040_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SistemaMedico.Infrastructure\\Migrations\\20261031161040_InitialCreate.cs",
+              "ToolTip": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Infrastructure\\Migrations\\20261031161040_InitialCreate.cs",
+              "RelativeToolTip": "SistemaMedico.Infrastructure\\Migrations\\20261031161040_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T16:10:41.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaMedico\\Program.cs",
+              "ToolTip": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico\\Program.cs",
+              "RelativeToolTip": "SistemaMedico\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T16:04:28.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaMedico\\appsettings.json",
+              "ToolTip": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico\\appsettings.json",
+              "RelativeToolTip": "SistemaMedico\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-31T16:02:50.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d114938f-591c-46cf-a785-500a82d97410}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SistemaMedico.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "SistemaMedico.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T16:02:05.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SistemaMedico.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SistemaMedico.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T16:00:55.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "SistemaMedico.Domain\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Domain\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "SistemaMedico.Domain\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T15:56:13.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Domain\\Entities\\Producto.cs",
+              "RelativeDocumentMoniker": "SistemaMedico.Domain\\Entities\\Producto.cs",
+              "ToolTip": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Domain\\Entities\\Producto.cs",
+              "RelativeToolTip": "SistemaMedico.Domain\\Entities\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T15:53:59.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Domain\\Entities\\Categoria.cs",
+              "RelativeDocumentMoniker": "SistemaMedico.Domain\\Entities\\Categoria.cs",
+              "ToolTip": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Domain\\Entities\\Categoria.cs",
+              "RelativeToolTip": "SistemaMedico.Domain\\Entities\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T15:53:32.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SistemaMedico.Domain.csproj",
+              "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Domain\\SistemaMedico.Domain.csproj",
+              "RelativeDocumentMoniker": "SistemaMedico.Domain\\SistemaMedico.Domain.csproj",
+              "ToolTip": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Domain\\SistemaMedico.Domain.csproj",
+              "RelativeToolTip": "SistemaMedico.Domain\\SistemaMedico.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-31T15:45:15.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SistemaMedico.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj",
+              "ToolTip": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj",
+              "RelativeToolTip": "SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-31T15:45:15.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

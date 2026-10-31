@@ -1,0 +1,15 @@
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\bin\Debug\net10.0\SistemaMedico.Application.deps.json
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\bin\Debug\net10.0\SistemaMedico.Application.dll
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\bin\Debug\net10.0\SistemaMedico.Application.pdb
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\bin\Debug\net10.0\SistemaMedico.Domain.dll
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\bin\Debug\net10.0\SistemaMedico.Domain.pdb
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\obj\Debug\net10.0\SistemaMedico.Application.csproj.AssemblyReference.cache
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\obj\Debug\net10.0\SistemaMedico.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\obj\Debug\net10.0\SistemaMedico.Application.AssemblyInfoInputs.cache
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\obj\Debug\net10.0\SistemaMedico.Application.AssemblyInfo.cs
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\obj\Debug\net10.0\SistemaMedico.Application.csproj.CoreCompileInputs.cache
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\obj\Debug\net10.0\SistemaM.ED792144.Up2Date
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\obj\Debug\net10.0\SistemaMedico.Application.dll
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\obj\Debug\net10.0\refint\SistemaMedico.Application.dll
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\obj\Debug\net10.0\SistemaMedico.Application.pdb
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Application\obj\Debug\net10.0\ref\SistemaMedico.Application.dll

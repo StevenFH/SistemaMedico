@@ -1,0 +1,12 @@
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Domain\bin\Debug\net10.0\SistemaMedico.Domain.deps.json
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Domain\bin\Debug\net10.0\SistemaMedico.Domain.dll
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Domain\bin\Debug\net10.0\SistemaMedico.Domain.pdb
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Domain\obj\Debug\net10.0\SistemaMedico.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Domain\obj\Debug\net10.0\SistemaMedico.Domain.AssemblyInfoInputs.cache
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Domain\obj\Debug\net10.0\SistemaMedico.Domain.AssemblyInfo.cs
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Domain\obj\Debug\net10.0\SistemaMedico.Domain.csproj.CoreCompileInputs.cache
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Domain\obj\Debug\net10.0\SistemaMedico.Domain.dll
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Domain\obj\Debug\net10.0\refint\SistemaMedico.Domain.dll
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Domain\obj\Debug\net10.0\SistemaMedico.Domain.pdb
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Domain\obj\Debug\net10.0\ref\SistemaMedico.Domain.dll
+C:\ProyectosPrograWeb\PracticaEvaluada2\SistemaMedico\SistemaMedico.Domain\obj\Debug\net10.0\SistemaM.0227C00A.Up2Date

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SistemaMedico.Application/SistemaMedico.Application.csproj" />
+  <Project Path="SistemaMedico.Domain/SistemaMedico.Domain.csproj" />
+  <Project Path="SistemaMedico.Infrastructure/SistemaMedico.Infrastructure.csproj" />
+  <Project Path="SistemaMedico/SistemaMedico.csproj" />
+</Solution>
