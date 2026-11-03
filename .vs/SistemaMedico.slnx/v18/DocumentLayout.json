@@ -27,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{45C94709-BF5E-89DE-F50F-C1E59751F4CD}|SistemaMedico.Domain\\SistemaMedico.Domain.csproj|solutionrelative:sistemamedico.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Infrastructure\\Migrations\\20261031172430_ActualizarPreciosColones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SistemaMedico.Infrastructure\\Migrations\\20261031172430_ActualizarPreciosColones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{95928DC4-BE12-DC3E-79F3-AE2E42A17183}|SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj|c:\\proyectosprograweb\\practicaevaluada2\\sistemamedico\\sistemamedico.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95928DC4-BE12-DC3E-79F3-AE2E42A17183}|SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj|solutionrelative:sistemamedico.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -45,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D281D934-545E-91F8-0615-E7459CE1F10D}|SistemaMedico\\SistemaMedico.csproj|c:\\proyectosprograweb\\practicaevaluada2\\sistemamedico\\sistemamedico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D281D934-545E-91F8-0615-E7459CE1F10D}|SistemaMedico\\SistemaMedico.csproj|solutionrelative:sistemamedico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Infrastructure\\Migrations\\20261031171440_SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SistemaMedico.Infrastructure\\Migrations\\20261031171440_SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D281D934-545E-91F8-0615-E7459CE1F10D}|SistemaMedico\\SistemaMedico.csproj|c:\\proyectosprograweb\\practicaevaluada2\\sistemamedico\\sistemamedico\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -145,6 +137,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{95928DC4-BE12-DC3E-79F3-AE2E42A17183}|SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj|c:\\proyectosprograweb\\practicaevaluada2\\sistemamedico\\sistemamedico.infrastructure\\migrations\\20261031161040_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95928DC4-BE12-DC3E-79F3-AE2E42A17183}|SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj|solutionrelative:sistemamedico.infrastructure\\migrations\\20261031161040_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95928DC4-BE12-DC3E-79F3-AE2E42A17183}|SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj|c:\\proyectosprograweb\\practicaevaluada2\\sistemamedico\\sistemamedico.infrastructure\\migrations\\20261031172430_actualizarprecioscolones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95928DC4-BE12-DC3E-79F3-AE2E42A17183}|SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj|solutionrelative:sistemamedico.infrastructure\\migrations\\20261031172430_actualizarprecioscolones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95928DC4-BE12-DC3E-79F3-AE2E42A17183}|SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj|c:\\proyectosprograweb\\practicaevaluada2\\sistemamedico\\sistemamedico.infrastructure\\migrations\\20261031171440_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95928DC4-BE12-DC3E-79F3-AE2E42A17183}|SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj|solutionrelative:sistemamedico.infrastructure\\migrations\\20261031171440_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -382,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 34,
               "Title": "20261031172430_ActualizarPreciosColones.cs",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Infrastructure\\Migrations\\20261031172430_ActualizarPreciosColones.cs",
               "RelativeDocumentMoniker": "SistemaMedico.Infrastructure\\Migrations\\20261031172430_ActualizarPreciosColones.cs",
@@ -390,12 +390,11 @@
               "RelativeToolTip": "SistemaMedico.Infrastructure\\Migrations\\20261031172430_ActualizarPreciosColones.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T17:24:30.723Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T17:24:30.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico\\Views\\Productos\\Edit.cshtml",
               "RelativeDocumentMoniker": "SistemaMedico\\Views\\Productos\\Edit.cshtml",
@@ -403,8 +402,7 @@
               "RelativeToolTip": "SistemaMedico\\Views\\Productos\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T17:02:52.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T17:02:52.364Z"
             },
             {
               "$type": "Document",
@@ -421,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico\\Views\\Categorias\\Create.cshtml",
               "RelativeDocumentMoniker": "SistemaMedico\\Views\\Categorias\\Create.cshtml",
@@ -429,8 +427,7 @@
               "RelativeToolTip": "SistemaMedico\\Views\\Categorias\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T16:55:51.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T16:55:51.678Z"
             },
             {
               "$type": "Document",
@@ -442,8 +439,7 @@
               "RelativeToolTip": "SistemaMedico\\Views\\Categorias\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T16:55:16.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T16:55:16.363Z"
             },
             {
               "$type": "Document",
@@ -455,12 +451,11 @@
               "RelativeToolTip": "SistemaMedico\\Controllers\\ProductosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T16:53:41.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T16:53:41.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "CategoriasController.cs",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico\\Controllers\\CategoriasController.cs",
               "RelativeDocumentMoniker": "SistemaMedico\\Controllers\\CategoriasController.cs",
@@ -468,12 +463,11 @@
               "RelativeToolTip": "SistemaMedico\\Controllers\\CategoriasController.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAIwFUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T16:52:43.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T16:52:43.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico\\Program.cs",
               "RelativeDocumentMoniker": "SistemaMedico\\Program.cs",
@@ -481,8 +475,7 @@
               "RelativeToolTip": "SistemaMedico\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T16:04:28.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T16:04:28.837Z"
             },
             {
               "$type": "Document",
@@ -494,12 +487,11 @@
               "RelativeToolTip": "SistemaMedico.Domain\\Interfaces\\IGenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T15:56:13.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T15:56:13.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico\\Views\\Categorias\\Edit.cshtml",
               "RelativeDocumentMoniker": "SistemaMedico\\Views\\Categorias\\Edit.cshtml",
@@ -507,8 +499,7 @@
               "RelativeToolTip": "SistemaMedico\\Views\\Categorias\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T17:02:17.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T17:02:17.022Z"
             },
             {
               "$type": "Document",
@@ -520,8 +511,7 @@
               "RelativeToolTip": "SistemaMedico.Infrastructure\\Repositories\\GenericRepository.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T16:02:05.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T16:02:05.823Z"
             },
             {
               "$type": "Document",
@@ -533,12 +523,11 @@
               "RelativeToolTip": "SistemaMedico.Application\\Services\\ProductoService.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA1wBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T16:44:34.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T16:44:34.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico\\Views\\Productos\\Create.cshtml",
               "RelativeDocumentMoniker": "SistemaMedico\\Views\\Productos\\Create.cshtml",
@@ -546,12 +535,11 @@
               "RelativeToolTip": "SistemaMedico\\Views\\Productos\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T16:56:46.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T16:56:46.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SistemaMedico\\Views\\Shared\\_Layout.cshtml",
@@ -559,12 +547,11 @@
               "RelativeToolTip": "SistemaMedico\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T16:57:09.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T16:57:09.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SistemaMedico\\Views\\Home\\Index.cshtml",
@@ -572,12 +559,11 @@
               "RelativeToolTip": "SistemaMedico\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T17:01:41.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T17:01:41.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico\\Views\\Categorias\\Delete.cshtml",
               "RelativeDocumentMoniker": "SistemaMedico\\Views\\Categorias\\Delete.cshtml",
@@ -585,12 +571,11 @@
               "RelativeToolTip": "SistemaMedico\\Views\\Categorias\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T17:07:00.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T17:07:00.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Infrastructure\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "SistemaMedico.Infrastructure\\Data\\ApplicationDbContext.cs",
@@ -598,12 +583,11 @@
               "RelativeToolTip": "SistemaMedico.Infrastructure\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T16:00:55.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T16:00:55.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 35,
               "Title": "20261031171440_SeedData.cs",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Infrastructure\\Migrations\\20261031171440_SeedData.cs",
               "RelativeDocumentMoniker": "SistemaMedico.Infrastructure\\Migrations\\20261031171440_SeedData.cs",
@@ -611,12 +595,11 @@
               "RelativeToolTip": "SistemaMedico.Infrastructure\\Migrations\\20261031171440_SeedData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T17:14:40.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T17:14:40.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico\\Views\\Productos\\Delete.cshtml",
               "RelativeDocumentMoniker": "SistemaMedico\\Views\\Productos\\Delete.cshtml",
@@ -624,12 +607,11 @@
               "RelativeToolTip": "SistemaMedico\\Views\\Productos\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-31T17:07:31.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T17:07:31.088Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "MiddlewareGlobalExceptionHandler.cs",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico\\Middleware\\MiddlewareGlobalExceptionHandler.cs",
               "RelativeDocumentMoniker": "SistemaMedico\\Middleware\\MiddlewareGlobalExceptionHandler.cs",
@@ -637,12 +619,11 @@
               "RelativeToolTip": "SistemaMedico\\Middleware\\MiddlewareGlobalExceptionHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T16:50:24.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T16:50:24.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "ExceptionResponse.cs",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico\\Middleware\\ExceptionResponse.cs",
               "RelativeDocumentMoniker": "SistemaMedico\\Middleware\\ExceptionResponse.cs",
@@ -650,12 +631,11 @@
               "RelativeToolTip": "SistemaMedico\\Middleware\\ExceptionResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T16:50:08.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T16:50:08.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "CategoriaService.cs",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Application\\Services\\CategoriaService.cs",
               "RelativeDocumentMoniker": "SistemaMedico.Application\\Services\\CategoriaService.cs",
@@ -663,12 +643,11 @@
               "RelativeToolTip": "SistemaMedico.Application\\Services\\CategoriaService.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAIwDsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T16:44:04.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T16:44:04.084Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 20,
               "Title": "IProductoService.cs",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Application\\Interfaces\\IProductoService.cs",
               "RelativeDocumentMoniker": "SistemaMedico.Application\\Interfaces\\IProductoService.cs",
@@ -676,12 +655,11 @@
               "RelativeToolTip": "SistemaMedico.Application\\Interfaces\\IProductoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T16:41:30.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T16:41:30.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
               "Title": "ICategoriaService.cs",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Application\\Interfaces\\ICategoriaService.cs",
               "RelativeDocumentMoniker": "SistemaMedico.Application\\Interfaces\\ICategoriaService.cs",
@@ -689,12 +667,11 @@
               "RelativeToolTip": "SistemaMedico.Application\\Interfaces\\ICategoriaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T16:40:59.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T16:40:59.807Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Application\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "SistemaMedico.Application\\Mappings\\MappingProfile.cs",
@@ -702,12 +679,11 @@
               "RelativeToolTip": "SistemaMedico.Application\\Mappings\\MappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T16:40:33.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T16:40:33.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 32,
               "Title": "SistemaMedico.Infrastructure.csproj",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Infrastructure.csproj",
               "RelativeDocumentMoniker": "SistemaMedico.Infrastructure.csproj",
@@ -719,7 +695,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 31,
               "Title": "SistemaMedico.Application.csproj",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Application.csproj",
               "RelativeDocumentMoniker": "SistemaMedico.Application.csproj",
@@ -731,7 +707,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 30,
               "Title": "SistemaMedico.csproj",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.csproj",
               "RelativeDocumentMoniker": "SistemaMedico.csproj",
@@ -743,7 +719,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 23,
               "Title": "ProductoDTO.cs",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Application\\DTOs\\ProductoDTO.cs",
               "RelativeDocumentMoniker": "SistemaMedico.Application\\DTOs\\ProductoDTO.cs",
@@ -751,12 +727,11 @@
               "RelativeToolTip": "SistemaMedico.Application\\DTOs\\ProductoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T16:16:58.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T16:16:58.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 24,
               "Title": "CategoriaDTO.cs",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Application\\DTOs\\CategoriaDTO.cs",
               "RelativeDocumentMoniker": "SistemaMedico.Application\\DTOs\\CategoriaDTO.cs",
@@ -764,12 +739,11 @@
               "RelativeToolTip": "SistemaMedico.Application\\DTOs\\CategoriaDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-31T16:16:37.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-31T16:16:37.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 33,
               "Title": "20261031161040_InitialCreate.cs",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Infrastructure\\Migrations\\20261031161040_InitialCreate.cs",
               "RelativeDocumentMoniker": "SistemaMedico.Infrastructure\\Migrations\\20261031161040_InitialCreate.cs",
@@ -781,7 +755,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico\\appsettings.json",
               "RelativeDocumentMoniker": "SistemaMedico\\appsettings.json",
@@ -793,7 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 26,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Domain\\Entities\\Producto.cs",
               "RelativeDocumentMoniker": "SistemaMedico.Domain\\Entities\\Producto.cs",
@@ -805,7 +779,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 27,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Domain\\Entities\\Categoria.cs",
               "RelativeDocumentMoniker": "SistemaMedico.Domain\\Entities\\Categoria.cs",
@@ -817,7 +791,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 29,
               "Title": "SistemaMedico.Domain.csproj",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Domain\\SistemaMedico.Domain.csproj",
               "RelativeDocumentMoniker": "SistemaMedico.Domain\\SistemaMedico.Domain.csproj",
@@ -829,7 +803,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 28,
               "Title": "SistemaMedico.Infrastructure.csproj",
               "DocumentMoniker": "C:\\ProyectosPrograWeb\\PracticaEvaluada2\\SistemaMedico\\SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj",
               "RelativeDocumentMoniker": "SistemaMedico.Infrastructure\\SistemaMedico.Infrastructure.csproj",
